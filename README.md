@@ -11,3 +11,4 @@
 - [Marco Gomez - WebGL Portfolio & Lab](https://mgz.me/)
 - [three.js dynamic 3D grid](https://codepen.io/j4nw/pen/LJEYKR)
 - [AI Event Solutions | All-in-One Event Management Software | EventX](https://eventx.io/)
+- https://dirkarnez.github.io/ogl-playground/aurora-background/index.html
