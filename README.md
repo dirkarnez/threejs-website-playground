@@ -5,6 +5,7 @@
 - [Tips - three.js manual](https://threejs.org/manual/#en/tips#html-background)
 - [Tips - three.js manual](https://threejs.org/manual/#en/tips#transparent-canvas)
 - [mml-io/3d-web-experience](https://github.com/mml-io/3d-web-experience)
+- [Let's create an animated landing page with React and Three.js pt. 2 - YouTube](https://www.youtube.com/watch?v=rfZQ-nlxlqo)
 
 ### Examples
 - [DNA Double Helix - By Neotix](https://dna-neotix.vercel.app/)
